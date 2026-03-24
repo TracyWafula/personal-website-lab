@@ -81,10 +81,6 @@ h3{
 
 }
 
-h4{
-    font-size:large ;
-    font-style: italic;
-}
 
 #aboutmeparagraph{
     padding: 3px 3px 3px 3px;
@@ -106,6 +102,6 @@ ul.a{
 
 footer{
     text-align: center;
-    font-size: small;
+    font-size:small;
 }
 
