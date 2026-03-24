@@ -73,6 +73,15 @@ h2{
     
 }
 
+#aboutmeparagraph{
+    padding: 5px 5px 5px 5px;
+    font-size:large;
+}
+
+ul.a{
+    list-style-type:square ;
+    font-size: large;
+}
 footer{
     text-align: center;
     font-size: small;
