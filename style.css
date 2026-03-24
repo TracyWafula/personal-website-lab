@@ -1,0 +1,41 @@
+h2{
+    color:pink;
+}
+
+p{
+    color:blue
+}
+
+button{
+    background-color:blue;
+    color:pink;
+}
+
+header{
+    text-align: center;
+    background-color: blue;
+    padding: 30px;
+    margin: 30px;
+    border-style: groove;
+
+}
+
+body{
+    text-align:justify;
+}
+
+nav{
+    background-color:bisque;
+    text-align: center;
+    padding: 10px;
+    margin: 40px; 
+}
+
+nav a{
+    color:black;
+    
+}
+section{
+    border: 1px solid blue;
+
+}
