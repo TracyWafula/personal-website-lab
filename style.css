@@ -41,6 +41,7 @@ body{
     color: #e0e0e0;
     text-align: center;
     font-size: xxx-large;
+    margin:5px;
 }
 
 nav{
@@ -52,15 +53,28 @@ nav{
 nav a{
     color: #e0e0e0;
     font-size:x-large;
+    font-family: fantasy;
     text-decoration-color: rgb(250, 114, 177);
-    padding: 10px 15px;
+    padding: 5px 10px;
     
     
 }
 
-.aboutme{
-    border: 10px #e0e0e0;
+section{
+    border: 5px solid gainsboro;
+    border-style:inset;
+    margin: 5px;
+    padding:10px;
 }
 
+h2{
+    color:rgb(240, 46, 185) ;
+    font-size: x-large;
+    
+}
 
+footer{
+    text-align: center;
+    font-size: small;
+}
 
