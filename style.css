@@ -1,3 +1,4 @@
+/*
 h2{
     color:pink;
 }
@@ -24,18 +25,42 @@ body{
     text-align:justify;
 }
 
-nav{
-    background-color:bisque;
-    text-align: center;
-    padding: 10px;
-    margin: 40px; 
-}
 
-nav a{
-    color:black;
-    
-}
 section{
     border: 1px solid blue;
 
 }
+*/
+
+body{
+    background-color: #32658f;
+}
+
+#main-heading{
+    font-family: fantasy;
+    color: #e0e0e0;
+    text-align: center;
+    font-size: xxx-large;
+}
+
+nav{
+    text-align: center;
+    margin: 10px;
+    
+}
+
+nav a{
+    color: #e0e0e0;
+    font-size:x-large;
+    text-decoration-color: rgb(250, 114, 177);
+    padding: 10px 15px;
+    
+    
+}
+
+.aboutme{
+    border: 10px #e0e0e0;
+}
+
+
+
